@@ -1,6 +1,6 @@
 # Giant Mayor VR Game
 
-- This Game is designed as final project for EPFL master course: CS-444 "Virtual Reality".
+- This Game is designed as the final project for EPFL master course: CS-444 "Virtual Reality".
 
 - Due to the file size limitation of github, I cannot upload the whole code files :(
 
