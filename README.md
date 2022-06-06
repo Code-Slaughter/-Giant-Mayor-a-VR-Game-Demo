@@ -6,6 +6,8 @@ Due to the file size limitation of github, I cannot upload the whole code files 
 
 Here is the link for you to see the final presentation of this game: [CLICK ME](https://www.youtube.com/watch?v=BPuymwXoFCc)
 
+If you are interested in this game, welcome to contact me with approaches provided in [my profile](https://github.com/Code-Slaughter)
+
 ## Game synopsis
 The “Giant Mayor” is in an evaluation period, and his/her duty is to ensure the
 prosperity of the city. The player needs to complete several tasks to become a
