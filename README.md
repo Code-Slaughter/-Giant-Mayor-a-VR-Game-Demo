@@ -1,5 +1,10 @@
 # Giant Mayor VR Game
-## Introduction
+
+This Game is designed as final project for EPFL master course: CS-444 "Virtual Reality"
+Due to the limitation of github, I cannot upload the whole code files :(
+Here is the link for you to see the final presentation of this game: [CLICK ME](https://www.youtube.com/watch?v=BPuymwXoFCc)
+
+## Game synopsis
 The “Giant Mayor” is in an evaluation period, and his/her duty is to ensure the
 prosperity of the city. The player needs to complete several tasks to become a
 beloved Mayor. There are mainly three tasks: catch dragons and send them back to
