@@ -6,10 +6,10 @@
 
 - Here is the link for you to see the final presentation of this game: [CLICK ME](https://www.youtube.com/watch?v=BPuymwXoFCc).
 
-- If you are interested in this game(code or whatever), welcome to contact me with approaches provided in [my profile](https://github.com/Code-Slaughter).
+- If you are interested in this game(code or whatever), welcome to contact me with approaches provided in [MY PROFILE](https://github.com/Code-Slaughter).
 
 ## Game synopsis
-The “Giant Mayor” is in an evaluation period, and his/her duty is to ensure the
+- The “Giant Mayor” is in an evaluation period, and his/her duty is to ensure the
 prosperity of the city. The player needs to complete several tasks to become a
 beloved Mayor. There are mainly three tasks: catch dragons and send them back to
 their world via portals, save people from fire and send him/her to hospital, and kill the
